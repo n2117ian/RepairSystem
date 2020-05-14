@@ -1,2 +1,3 @@
 Pods/mailcore2-ios/lib/libMailCore-ios.a filter=lfs diff=lfs merge=lfs -text
+/Users/liyichen/Desktop/RepairSystem_2/Pods/mailcore2-ios/lib/libMailCore-ios.a filter=lfs diff=lfs merge=lfs -text
 *.a filter=lfs diff=lfs merge=lfs -text
